@@ -32,7 +32,7 @@
 ## 🎯 Currently Working On
 - Building reusable automation pipelines.
 - Exploring ways to integrate **AI** into automation workflows.
-- Contributing to open-source projects in the fintech domain.
+- Contributing to open-source projects in the fintech domains.
 
 ## 📫 Get in Touch
 - ✉️ Email: [sachin.jram@gmail.com](mailto:sachin.jram@gmail.com)
