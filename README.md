@@ -36,7 +36,7 @@
 
 ## 📫 Get in Touch
 - ✉️ Email: [sachin.jram@gmail.com](mailto:sachin.jram@gmail.com)
-- 🔗 LinkedIn: [Sachin Jayaram](#) (https://www.linkedin.com/in/sachin-jayaram)
+- 🔗 LinkedIn: [Sachin Jayaram](https://www.linkedin.com/in/sachin-jayaram)
 ---
 
 ✨ _“Technology is best when it brings people together.”_ – Let’s build something amazing! 🌍
